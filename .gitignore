@@ -1,3 +1,5 @@
 .idea/
 __pycache__/
 *.iml
+
+leaderboard/team_code/interfuser.pth.tar
