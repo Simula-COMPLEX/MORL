@@ -1,0 +1,12 @@
+{
+    "available_scenarios": [
+        {
+            "Town04": [
+                {
+                    "available_event_configurations": [],
+                    "scenario_type": "Scenario2"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<routes>
+  <route id="0" town="Town02">
+    <waypoint x="80.501389" y="105.411346" z="0.877575" pitch="0.000000" roll="0.000000" yaw="-179.961029"/>
+<!--    <waypoint x="-1.988264" y="304.303864" z="0.0" pitch="0.0" roll="0.0" yaw="90.007477"/>-->
+    <waypoint x="44.627083" y="105.366577" z="0.253418" pitch="0.000000" roll="0.000000" yaw="-179.425354"/>
+<!--    Transform(Location(x=44.627083, y=105.366577, z=0.253418), Rotation(pitch=0.000000, yaw=-179.425354, roll=0.000000))-->
+  </route>
+</routes>

@@ -106,10 +106,13 @@ python strategy_morl.py --port=2000 --trafficManagerPort=8000 \
 ### Analysis
 ```
 cd RL/MORL_morl
+conda create -n statistic python=3.9
+conda activate statistic
+pip install -r requirements.txt
 python evaluation.py
 ```
 
 ## Models, Data, and Results
 **_RL/MORL_morl/train_results_** contains trained models and training process data.
 
-**_RL/MORL_morl/eval_results_** contains evaluation process data and evaluation results.
+**_RL/MORL_morl/eval_results_** contains evaluation process data and evaluation results. Note that to save storage space, the executable models are not directly provided in this folder. You can manually copy the **.tar** pretrained model files from the **_RL/MORL_morl/train_results_** folder into this directory and adjust the command parameters accordingly before running.

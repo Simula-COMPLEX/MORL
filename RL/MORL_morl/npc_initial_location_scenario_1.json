@@ -1,0 +1,16 @@
+{
+  "npc_1": {
+    "name": "npc_vehicle_1",
+    "location": {
+      "x": -10,
+      "y": 10.5
+    }
+  },
+  "npc_2": {
+    "name": "npc_vehicle_2",
+    "location": {
+      "x": 10,
+      "y": 7
+    }
+  }
+}
