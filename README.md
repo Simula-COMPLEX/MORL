@@ -21,6 +21,7 @@ chmod +x setup_carla.sh
 ./setup_carla.sh
 easy_install carla/PythonAPI/carla/dist/carla-0.9.10-py3.7-linux-x86_64.egg
 ```
+Download the model weights (`interfuser.pth.tar`) from [MORL Drive](https://drive.google.com/drive/folders/1OIIqBWMVGB94rqNjCqA0xnYWRLGt0Bs-?usp=sharing) and place it in the `leaderboard/team_code/` folder.
 
 This part of the configuration is derived from the [InterFuser](https://github.com/opendilab/InterFuser) project. For further details, please refer to the original project.
 
@@ -113,6 +114,6 @@ python evaluation.py
 ```
 
 ## Models, Data, and Results
-**_RL/MORL_morl/train_results_** contains trained models and training process data.
+**_RL/MORL_morl/train_results_** contains trained models and training process data. The relevant models and data can be downloaded from [MORL Drive](https://drive.google.com/drive/folders/1OIIqBWMVGB94rqNjCqA0xnYWRLGt0Bs-?usp=sharing).
 
 **_RL/MORL_morl/eval_results_** contains evaluation process data and evaluation results. Note that to save storage space, the executable models are not directly provided in this folder. You can manually copy the **.tar** pretrained model files from the **_RL/MORL_morl/train_results_** folder into this directory and adjust the command parameters accordingly before running.
