@@ -1,0 +1,51 @@
+100 scenario tol_dis average: 4.830108340516466
+dis_num: 87
+87 scenario dis_num_dis average: 4.170283459516731
+100 scenario tol_ttc average: 3.2840469404267507
+ttc_num: 0
+0 scenario ttc_num_ttc average: None
+col_num: 71
+dis_ttc_num: 0
+0 scenario dis_ttc_dis average: None
+0 scenario dis_ttc_ttc average: None
+
+34 sets of actions for unique scenarios
+action: (5, 8, 5, 8, 11) number: 1
+action: (5, 8, 5, 0, 6) number: 4
+action: (5, 5, 11, 10, 7) number: 1
+action: (5, 8, 5, 0) number: 1
+action: (5, 5, 3, 7, 4) number: 1
+action: (5, 4, 8, 3, 4) number: 1
+action: (5, 8, 5, 8, 4) number: 23
+action: (8, 5, 5, 2, 7) number: 1
+action: (5, 8, 3) number: 1
+action: (5, 8, 5, 0, 5) number: 7
+action: (5, 8, 5, 8) number: 29
+action: (5, 8, 2) number: 2
+action: (5, 8, 0) number: 1
+action: (5, 9, 8, 3, 4) number: 1
+action: (5, 8, 5, 0, 2) number: 3
+action: (5, 8, 5, 0, 3) number: 1
+action: (1, 8, 4, 4, 4) number: 1
+action: (5, 8, 5) number: 5
+action: (5, 0, 8, 6) number: 1
+action: (5, 11, 3, 8) number: 1
+action: (5, 8, 5, 3, 5) number: 1
+action: (5, 8, 5, 0, 4) number: 1
+action: (7, 5, 3, 7, 4) number: 1
+action: (5, 8, 5, 10, 5) number: 1
+action: (5, 8, 5, 5, 0) number: 1
+action: (7, 5, 10, 7, 4) number: 1
+action: (5, 8, 5, 11, 5) number: 1
+action: (6, 5, 10, 7, 4) number: 1
+action: (3, 5, 3, 7, 5) number: 1
+action: (10, 8, 7, 7, 4) number: 1
+action: (5, 1, 8) number: 1
+action: (10, 5, 2, 7, 7) number: 1
+action: (5, 3, 8, 3, 5) number: 1
+action: (5, 8, 1) number: 1
+
+average action difference (with scenario number): 3.6355555555555554
+average action difference (without scenario number): 4.1568627450980395
+
+all scenario dynamic_time_warping difference: 6.734349593892022

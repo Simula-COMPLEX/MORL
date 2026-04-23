@@ -1,0 +1,15 @@
+metric,distance_time_to_collision_p,distance_time_to_collision_e,distance_completion_p,distance_completion_e,distance_comfort_p,distance_comfort_e,distance_speed_diff_p,distance_speed_diff_e,time_to_collision_completion_p,time_to_collision_completion_e,time_to_collision_comfort_p,time_to_collision_comfort_e,time_to_collision_speed_diff_p,time_to_collision_speed_diff_e,completion_comfort_p,completion_comfort_e,completion_speed_diff_p,completion_speed_diff_e,comfort_speed_diff_p,comfort_speed_diff_e
+tol_x1,<0.01,0.552,>=0.05,0.472,<0.05,0.534,>=0.05,0.514,>=0.05,0.493,<0.01,0.562,>=0.05,0.481,<0.05,0.462,<0.05,0.54,<0.01,0.684
+tol_x2,>=0.05,0.514,<0.01,0.684,<0.01,0.551,<0.01,0.554,>=0.05,0.496,<0.01,0.333,<0.01,0.287,>=0.05,0.495,<0.01,0.614,>=0.05,0.494
+x1_num,<0.05,1.343,>=0.05,1.192,>=0.05,0.966,>=0.05,1.046,>=0.05,nan,>=0.05,nan,>=0.05,nan,<0.01,1.677,<0.01,1.918,<0.01,3.499
+x1_num_x1,<0.01,0.771,>=0.05,0.51,<0.01,0.671,<0.01,0.656,NA,NA,NA,NA,NA,NA,>=0.05,0.519,<0.01,0.612,<0.01,0.682
+x2_num,>=0.05,nan,<0.01,0.427,>=0.05,0.889,<0.01,3.112,<0.01,2.057,<0.01,0.199,<0.01,0.066,<0.01,2.125,<0.01,2.76,>=0.05,0.495
+x2_num_x2,NA,NA,<0.01,0.682,<0.01,0.613,<0.01,0.335,<0.05,0.545,<0.01,0.377,<0.01,0.348,<0.01,0.447,<0.01,0.577,>=0.05,0.499
+x1_x2_num,>=0.05,nan,>=0.05,1.175,>=0.05,0.882,>=0.05,1.246,>=0.05,nan,>=0.05,nan,>=0.05,nan,<0.01,1.624,<0.01,1.939,<0.01,3.257
+x1_x2_x1,NA,NA,>=0.05,0.505,<0.01,0.796,<0.01,0.745,NA,NA,NA,NA,NA,NA,>=0.05,0.519,<0.01,0.612,<0.01,0.68
+x1_x2_x2,NA,NA,<0.01,0.933,<0.01,0.6,<0.01,0.063,NA,NA,NA,NA,NA,NA,<0.01,0.409,<0.01,0.595,<0.01,0.576
+col_num,>=0.05,0.932,>=0.05,1.028,<0.01,2.573,<0.01,0.604,>=0.05,0.909,<0.01,0.499,<0.05,1.308,>=0.05,0.497,<0.01,12.25,<0.01,12.978
+unique_action_set_num,<0.05,1.428,>=0.05,1.281,>=0.05,1.188,<0.01,2.123,<0.01,1.608,<0.01,1.504,>=0.05,1.043,>=0.05,1.027,<0.05,1.362,<0.01,1.788
+unique_action_diff_num_no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+unique_action_diff,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+all_scenario_diff,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

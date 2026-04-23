@@ -1,0 +1,45 @@
+100 scenario tol_comf average: 1.161443159074914
+comf_num: 65
+65 scenario comf_num_comf average: 1.3413862830784173
+100 scenario tol_spdif average: 1.2750126145951017
+spdif_num: 99
+99 scenario spdif_num_spdif average: 1.287891529894042
+col_num: 0
+comf_spdif_num: 64
+64 scenario comf_spdif_comf average: 1.3353522128271416
+64 scenario comf_spdif_spdif average: 1.2107245400813567
+
+28 sets of actions for unique scenarios
+action: (8, 10, 11, 10, 3) number: 16
+action: (8, 10, 10, 10, 3) number: 24
+action: (5, 5, 0, 8, 0) number: 1
+action: (8, 10, 10, 11, 3) number: 3
+action: (5, 3, 10, 8, 0) number: 1
+action: (8, 10, 11, 10, 0) number: 9
+action: (8, 6, 11, 11, 7) number: 1
+action: (5, 5, 10, 4, 0) number: 22
+action: (8, 10, 11, 10, 4) number: 2
+action: (8, 10, 11, 10, 10) number: 2
+action: (8, 10, 10, 4, 2) number: 1
+action: (8, 10, 11, 10, 5) number: 1
+action: (8, 10, 6, 11, 7) number: 1
+action: (8, 10, 11, 10, 2) number: 1
+action: (8, 10, 0, 11, 7) number: 1
+action: (5, 5, 10, 4, 9) number: 1
+action: (8, 10, 11, 11, 0) number: 1
+action: (5, 5, 10, 4, 5) number: 1
+action: (8, 10, 10, 10, 9) number: 1
+action: (8, 11, 11, 10, 3) number: 1
+action: (5, 5, 10, 0, 0) number: 2
+action: (1, 8, 11, 11, 5) number: 1
+action: (5, 7, 8, 4, 5) number: 1
+action: (1, 8, 11, 11, 0) number: 1
+action: (8, 10, 10, 3, 7) number: 1
+action: (5, 5, 10, 1, 0) number: 1
+action: (8, 7, 11, 11, 7) number: 1
+action: (8, 10, 10, 10, 1) number: 1
+
+average action difference (with scenario number): 2.728080808080808
+average action difference (without scenario number): 3.484126984126984
+
+all scenario dynamic_time_warping difference: 8.887732925464638

@@ -1,0 +1,36 @@
+100 scenario tol_ttc average: 3.838245643967424
+ttc_num: 0
+0 scenario ttc_num_ttc average: None
+100 scenario tol_comp average: 53.801389131933504
+comp_num: 99
+99 scenario comp_num_comp average: 53.334736496902536
+col_num: 73
+ttc_comp_num: 0
+0 scenario ttc_comp_ttc average: None
+0 scenario ttc_comp_comp average: None
+
+19 sets of actions for unique scenarios
+action: (5, 2, 8, 1) number: 1
+action: (5, 8, 5, 6, 6) number: 23
+action: (5, 8, 5, 5, 5) number: 16
+action: (5, 8, 5, 6) number: 38
+action: (5, 8, 5, 6, 1) number: 7
+action: (5, 8, 9) number: 2
+action: (5, 8, 5, 10, 6) number: 1
+action: (5, 8, 5, 7) number: 1
+action: (5, 8, 5, 1) number: 1
+action: (5, 8, 5, 6, 4) number: 1
+action: (5, 8, 5, 6, 9) number: 1
+action: (5, 8, 5, 2, 6) number: 1
+action: (5, 8, 2, 6, 3) number: 1
+action: (5, 8, 5, 6, 3) number: 1
+action: (5, 8, 5, 1, 1) number: 1
+action: (5, 11, 5, 6, 6) number: 1
+action: (4, 8, 6, 11, 11) number: 1
+action: (5, 8, 7) number: 1
+action: (2, 8, 11, 6, 2) number: 1
+
+average action difference (with scenario number): 3.0939393939393938
+average action difference (without scenario number): 3.6842105263157894
+
+all scenario dynamic_time_warping difference: 6.0119251625607

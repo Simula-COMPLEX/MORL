@@ -1,0 +1,38 @@
+100 scenario tol_dis average: 5.978191097010941
+dis_num: 2
+2 scenario dis_num_dis average: 4.725355575735112
+100 scenario tol_comp average: 45.17388318010746
+comp_num: 81
+81 scenario comp_num_comp average: 32.3134360248241
+col_num: 82
+dis_comp_num: 2
+2 scenario dis_comp_dis average: 4.725355575735112
+2 scenario dis_comp_comp average: 23.822685634566508
+
+21 sets of actions for unique scenarios
+action: (3, 1, 3, 3, 7) number: 3
+action: (2, 8, 7, 7, 3) number: 2
+action: (3, 3) number: 75
+action: (3, 1, 7, 7, 7) number: 1
+action: (10, 3, 3) number: 1
+action: (2, 4, 8, 2, 7) number: 1
+action: (3, 4) number: 3
+action: (3, 1, 3, 9, 3) number: 1
+action: (3, 1, 3, 3, 4) number: 1
+action: (7, 8, 1, 3, 6) number: 1
+action: (2, 8, 7, 3, 3) number: 1
+action: (3, 1, 3, 0, 3) number: 1
+action: (3, 1, 4, 2, 1) number: 1
+action: (8, 6, 7, 3, 3) number: 1
+action: (7, 8, 1, 4, 6) number: 1
+action: (3, 9, 3, 2, 3) number: 1
+action: (11, 2, 8) number: 1
+action: (0, 7, 3, 3, 7) number: 1
+action: (3, 1, 3, 7, 7) number: 1
+action: (3, 1, 3) number: 1
+action: (10, 2, 1, 10, 3) number: 1
+
+average action difference (with scenario number): 1.9634343434343435
+average action difference (without scenario number): 4.271428571428571
+
+all scenario dynamic_time_warping difference: 4.373684633085024

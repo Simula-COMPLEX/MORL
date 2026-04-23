@@ -1,0 +1,27 @@
+100 scenario tol_dis average: 2.0764079671937434
+dis_num: 100
+100 scenario dis_num_dis average: 2.0764079671937434
+100 scenario tol_spdif average: 0.010294285818680027
+spdif_num: 3
+3 scenario spdif_num_spdif average: 0.3431428606226676
+col_num: 100
+dis_spdif_num: 3
+3 scenario dis_spdif_dis average: 2.8699680255589626
+3 scenario dis_spdif_spdif average: 0.3431428606226676
+
+10 sets of actions for unique scenarios
+action: (3, 4) number: 1
+action: (3, 1) number: 43
+action: (3, 10) number: 46
+action: (3, 11) number: 3
+action: (3, 3) number: 2
+action: (3, 2) number: 1
+action: (3, 8) number: 1
+action: (6, 11, 1) number: 1
+action: (1, 11, 1) number: 1
+action: (3, 5) number: 1
+
+average action difference (with scenario number): 0.7660606060606061
+average action difference (without scenario number): 2.422222222222222
+
+all scenario dynamic_time_warping difference: 2.4128403002536842

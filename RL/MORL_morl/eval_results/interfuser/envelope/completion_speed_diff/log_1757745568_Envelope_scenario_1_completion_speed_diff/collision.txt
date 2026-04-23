@@ -1,0 +1,58 @@
+100 scenario tol_comp average: 58.51354005899502
+comp_num: 67
+67 scenario comp_num_comp average: 38.07991053581352
+100 scenario tol_spdif average: 0.8403873940434958
+spdif_num: 71
+71 scenario spdif_num_spdif average: 1.1836442169626702
+col_num: 1
+comp_spdif_num: 67
+67 scenario comp_spdif_comp average: 38.07991053581352
+67 scenario comp_spdif_spdif average: 1.2524377903736814
+
+41 sets of actions for unique scenarios
+action: (11, 11, 11, 2, 4) number: 15
+action: (4, 5, 6, 6, 4) number: 1
+action: (11, 11, 11, 11, 3) number: 1
+action: (11, 10, 6, 8, 6) number: 1
+action: (11, 11, 3, 6, 9) number: 1
+action: (11, 11, 11, 8, 8) number: 1
+action: (11, 11, 11, 11, 2) number: 2
+action: (4, 5, 11, 4, 11) number: 6
+action: (4, 8, 6, 7, 4) number: 5
+action: (4, 5, 11, 4, 1) number: 1
+action: (0, 8, 6, 11, 1) number: 1
+action: (11, 5, 5, 11, 6) number: 1
+action: (4, 8, 4, 7, 4) number: 1
+action: (11, 10, 11, 2, 4) number: 5
+action: (11, 10, 10, 11, 2) number: 9
+action: (4, 5, 6, 4, 4) number: 11
+action: (11, 5, 2, 4, 11) number: 1
+action: (11, 10, 0, 6, 2) number: 1
+action: (11, 4, 10, 10, 0) number: 1
+action: (11, 5, 11, 8, 6) number: 1
+action: (11, 10, 11, 1, 2) number: 1
+action: (4, 5, 3, 4, 4) number: 1
+action: (11, 5, 5, 11, 4) number: 6
+action: (11, 10, 11, 11, 2) number: 8
+action: (9, 7, 11, 11, 11) number: 1
+action: (11, 11, 5, 11, 8) number: 1
+action: (4, 5, 11, 4, 9) number: 1
+action: (10, 7, 3, 11, 11) number: 1
+action: (2, 11, 11, 4, 1) number: 1
+action: (4, 5, 11, 4, 4) number: 2
+action: (11, 11, 5, 8, 8) number: 1
+action: (11, 8, 10, 6, 6) number: 1
+action: (4, 5, 11, 4, 0) number: 1
+action: (11, 11, 1, 8, 6) number: 1
+action: (11, 11, 11, 1, 0) number: 1
+action: (11, 11, 11, 8, 6) number: 1
+action: (11, 11, 5, 8, 1) number: 1
+action: (11, 10, 5, 8, 8) number: 1
+action: (4, 5, 6, 4, 3) number: 1
+action: (11, 2, 4) number: 1
+action: (11, 10, 3, 8, 6) number: 1
+
+average action difference (with scenario number): 3.452929292929293
+average action difference (without scenario number): 3.8609756097560974
+
+all scenario dynamic_time_warping difference: 9.479038717950713

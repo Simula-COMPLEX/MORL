@@ -1,0 +1,25 @@
+100 scenario tol_dis average: 2.077613882936092
+dis_num: 100
+100 scenario dis_num_dis average: 2.077613882936092
+100 scenario tol_ttc average: 10.133333333333333
+ttc_num: 0
+0 scenario ttc_num_ttc average: None
+col_num: 99
+dis_ttc_num: 0
+0 scenario dis_ttc_dis average: None
+0 scenario dis_ttc_ttc average: None
+
+8 sets of actions for unique scenarios
+action: (3, 10) number: 92
+action: (3, 5) number: 1
+action: (3, 9) number: 1
+action: (4, 11, 1) number: 1
+action: (3, 11) number: 1
+action: (3, 6) number: 2
+action: (10, 1, 1, 10, 10) number: 1
+action: (3, 7) number: 1
+
+average action difference (with scenario number): 0.31333333333333335
+average action difference (without scenario number): 2.857142857142857
+
+all scenario dynamic_time_warping difference: 1.8463246315562827

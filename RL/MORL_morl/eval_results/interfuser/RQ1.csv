@@ -1,0 +1,11 @@
+metric,algorithm_1,algorithm_2,p_value,p_value_format,effect_size,effect_size_format
+tol_x_nor,envelope,single,1.2655913318697276e-10,<0.01,0.476,negligible
+x_num,envelope,single,7.75423863212672e-08,<0.01,1.151,
+x_num_x_nor,envelope,single,7.389621827530955e-42,<0.01,0.434,small
+x1_x2_num,envelope,single,1.6133169106624855e-09,<0.01,1.274,
+x_x_x_nor,envelope,single,7.71936120378618e-11,<0.01,0.455,negligible
+col_num,envelope,single,0.10208028678752744,>=0.05,1.063,
+unique_action_set_num,envelope,single,4.330128738468137e-13,<0.01,1.388,
+unique_action_diff_num_no,envelope,single,0.004785208193493392,<0.01,0.649,medium
+unique_action_diff,envelope,single,8.589887550195833e-14,<0.01,0.895,large
+all_scenario_diff,envelope,single,3.5891580964019875e-09,<0.01,0.812,large
